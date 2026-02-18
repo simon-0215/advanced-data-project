@@ -82,7 +82,7 @@ The data is stored in wide format: each row represents a trading day, and each c
 
 Shows adjusted close prices over time for six representative stocks across sectors.
 
-![Price curves](outputs/A1figs/price_sample.png)
+![Price curves](https://raw.githubusercontent.com/simon-0215/advanced-data-project/main/outputs/A1figs/price_sample.png)
 
 ---
 
@@ -95,7 +95,7 @@ This figure visualizes **three dimensions** in a single graphic:
 
 Color intensity indicates strength and direction of correlation (red = stronger positive, blue = negative).
 
-![Correlation heatmap](outputs/A1figs/corr_heatmap.png)
+![Correlation heatmap](https://raw.githubusercontent.com/simon-0215/advanced-data-project/main/outputs/A1figs/corr_heatmap.png)
 
 ---
 
@@ -103,7 +103,7 @@ Color intensity indicates strength and direction of correlation (red = stronger 
 
 Annualized volatility (x-axis) vs. annualized return (y-axis) for each stock. Points farther up and left are more attractive (higher return, lower risk).
 
-![Risk-return scatter](outputs/A1figs/risk_return_scatter.png)
+![Risk-return scatter](https://raw.githubusercontent.com/simon-0215/advanced-data-project/main/outputs/A1figs/risk_return_scatter.png)
 
 ---
 
@@ -111,7 +111,7 @@ Annualized volatility (x-axis) vs. annualized return (y-axis) for each stock. Po
 
 21-day rolling annualized volatility for six representative tickers. Captures time-varying risk, including periods such as COVID-19 in 2020.
 
-![Rolling volatility](outputs/A1figs/rolling_vol.png)
+![Rolling volatility](https://raw.githubusercontent.com/simon-0215/advanced-data-project/main/outputs/A1figs/rolling_vol.png)
 
 ---
 
@@ -119,7 +119,7 @@ Annualized volatility (x-axis) vs. annualized return (y-axis) for each stock. Po
 
 Drawdown (peak-to-trough decline) for six tickers over the sample period. Useful for assessing worst-case losses and recovery periods.
 
-![Drawdowns](outputs/A1figs/drawdown.png)
+![Drawdowns](https://raw.githubusercontent.com/simon-0215/advanced-data-project/main/outputs/A1figs/drawdown.png)
 
 ---
 

@@ -65,11 +65,11 @@
 
 ## 三、可视化图表说明
 
-以下每张图均保存在 `outputs/figs/` 目录下，以 PNG 格式输出。**请先运行 `notebook/eda.ipynb` 生成图片后，本报告中的图表方能正常显示。**
+以下每张图均保存在 `outputs/figs/` 目录下，以 PNG 格式输出。
 
 ### 3.1 价格曲线（price_sample.png）
 
-![价格曲线](../outputs/figs/price_sample.png)
+![价格曲线](https://raw.githubusercontent.com/simon-0215/advanced-data-project/main/outputs/figs/price_sample.png)
 
 **含义**：展示 AAPL、AMZN、NVDA、JNJ、XOM、META 六只股票在 2015–2025 年间的调整后收盘价走势。
 
@@ -82,7 +82,7 @@
 
 ### 3.2 收益分布直方图（return_hist.png）
 
-![收益分布](../outputs/figs/return_hist.png)
+![收益分布](https://raw.githubusercontent.com/simon-0215/advanced-data-project/main/outputs/figs/return_hist.png)
 
 **含义**：各股票日收益率的直方图 + KDE（核密度估计）曲线。
 
@@ -95,7 +95,7 @@
 
 ### 3.3 滚动波动率（rolling_vol.png）
 
-![滚动波动率](../outputs/figs/rolling_vol.png)
+![滚动波动率](https://raw.githubusercontent.com/simon-0215/advanced-data-project/main/outputs/figs/rolling_vol.png)
 
 **含义**：21 日滚动窗口计算的年化波动率（百分比）随时间变化。
 
@@ -108,7 +108,7 @@
 
 ### 3.4 回撤图（drawdown.png）
 
-![回撤图](../outputs/figs/drawdown.png)
+![回撤图](https://raw.githubusercontent.com/simon-0215/advanced-data-project/main/outputs/figs/drawdown.png)
 
 **含义**：各标的累计净值相对于历史最高净值的回撤百分比（0 表示在历史高点，负值表示相对最高点的跌幅）。
 
@@ -121,7 +121,7 @@
 
 ### 3.5 相关性热力图（corr_heatmap.png）
 
-![相关性热力图](../outputs/figs/corr_heatmap.png)
+![相关性热力图](https://raw.githubusercontent.com/simon-0215/advanced-data-project/main/outputs/figs/corr_heatmap.png)
 
 **含义**：各股票日收益率之间的相关系数矩阵，颜色越红表示正相关越强，越蓝表示负相关越强。
 
@@ -134,7 +134,7 @@
 
 ### 3.6 年化收益排序（top_bottom_return.png）
 
-![年化收益排序](../outputs/figs/top_bottom_return.png)
+![年化收益排序](https://raw.githubusercontent.com/simon-0215/advanced-data-project/main/outputs/figs/top_bottom_return.png)
 
 **含义**：按年化收益率排序的横向条形图，绿色表示正收益，红色表示负收益。
 
@@ -146,7 +146,7 @@
 
 ### 3.7 Sharpe 比率排序（sharpe_ratio.png）
 
-![Sharpe比率排序](../outputs/figs/sharpe_ratio.png)
+![Sharpe比率排序](https://raw.githubusercontent.com/simon-0215/advanced-data-project/main/outputs/figs/sharpe_ratio.png)
 
 **含义**：各标的的 Sharpe 比率（rf=0）排序。
 
@@ -158,7 +158,7 @@
 
 ### 3.8 波动率与最大回撤（top_bottom_metrics.png）
 
-![波动率与最大回撤](../outputs/figs/top_bottom_metrics.png)
+![波动率与最大回撤](https://raw.githubusercontent.com/simon-0215/advanced-data-project/main/outputs/figs/top_bottom_metrics.png)
 
 **含义**：左图为年化波动率排序，右图为最大回撤排序。
 
@@ -171,7 +171,7 @@
 
 ### 3.9 累计收益（cum_returns.png）
 
-![累计收益](../outputs/figs/cum_returns.png)
+![累计收益](https://raw.githubusercontent.com/simon-0215/advanced-data-project/main/outputs/figs/cum_returns.png)
 
 **含义**：将各股票初始净值设为 1，按日复利累积后的净值走势。
 
@@ -184,7 +184,7 @@
 
 ### 3.10 AAPL 日收益时间序列（return_ts_aapl.png）
 
-![AAPL日收益序列](../outputs/figs/return_ts_aapl.png)
+![AAPL日收益序列](https://raw.githubusercontent.com/simon-0215/advanced-data-project/main/outputs/figs/return_ts_aapl.png)
 
 **含义**：以 AAPL 为例，展示每日收益率的柱状图（正为涨、负为跌）。
 
@@ -197,7 +197,7 @@
 
 ### 3.11 收益箱线图（return_boxplot.png）
 
-![收益箱线图](../outputs/figs/return_boxplot.png)
+![收益箱线图](https://raw.githubusercontent.com/simon-0215/advanced-data-project/main/outputs/figs/return_boxplot.png)
 
 **含义**：各股票日收益率的箱线图（中位数、四分位数、异常值）。
 
@@ -210,7 +210,7 @@
 
 ### 3.12 风险-收益散点图（risk_return_scatter.png）
 
-![风险收益散点图](../outputs/figs/risk_return_scatter.png)
+![风险收益散点图](https://raw.githubusercontent.com/simon-0215/advanced-data-project/main/outputs/figs/risk_return_scatter.png)
 
 **含义**：横轴为年化波动率（风险），纵轴为年化收益，每个点代表一只股票。
 

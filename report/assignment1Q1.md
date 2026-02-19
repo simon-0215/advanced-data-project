@@ -1,6 +1,7 @@
 # Problem 1: Exploratory Analysis for the Final Project
 
 **Course:GR5291** 
+
 **Assignment:** HW1 Problem 1 — Exploratory Analysis (15 pts)  
 **Project:** S&P 500 Stock Portfolio Analysis  
 

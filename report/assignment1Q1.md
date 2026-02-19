@@ -10,9 +10,12 @@
 
 | Name | UNI |
 |------|-----|
-| [Your Name] | [Your UNI] |
-| [Teammate 2] | [UNI 2] |
-| [Teammate 3] | [UNI 3] |
+| Mingyang Xu | mx2315 |
+| ian | cw3736 |
+| Zhiyuan Lu | zl3622 |
+| Yandi Zhang | yz5124 |
+| Daile Yang | dy2540 |
+
 
 *Please replace the placeholders above with your team members’ names and UNIs.*
 

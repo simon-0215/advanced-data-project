@@ -23,9 +23,9 @@
   - no slippage
   - long-only constraints (weights >= 0)
 
-## 项目结构
+## Project Structure
 
-- `data/` — 原始数据 (Prices.csv)
-- `notebook/` — Jupyter 分析 notebook (eda.ipynb)
-- `outputs/` — 结果输出 (returns.csv, metrics.csv, corr.csv, figs/)
-- `report/` — 中文 EDA 报告 (EDA报告.md)
+- `data/` - source data (`Prices.csv`)
+- `notebook/` - Jupyter analysis notebook (`eda.ipynb`)
+- `outputs/` - generated outputs (`returns.csv`, `metrics.csv`, `corr.csv`, `figs/`)
+- `report/` - reports (`EDA_report.md`, `assignment1Q1.md`)

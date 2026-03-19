@@ -10,7 +10,7 @@
 
 | Name | UNI |
 |------|-----|
-| [Your Name] | [Your UNI] |
+| Mingyang Xu | mx2315 |
 | [Teammate 2] | [UNI 2] |
 | [Teammate 3] | [UNI 3] |
 

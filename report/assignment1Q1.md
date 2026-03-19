@@ -1,6 +1,7 @@
 # Problem 1: Exploratory Analysis for the Final Project
 
-**Course:** [Course Name]  
+**Course:GR5291** 
+
 **Assignment:** HW1 Problem 1 — Exploratory Analysis (15 pts)  
 **Project:** S&P 500 Stock Portfolio Analysis  
 
@@ -11,10 +12,10 @@
 | Name | UNI |
 |------|-----|
 | Mingyang Xu | mx2315 |
-| [Teammate 2] | [UNI 2] |
-| [Teammate 3] | [UNI 3] |
-
-*Please replace the placeholders above with your team members’ names and UNIs.*
+| ian | cw3736 |
+| Zhiyuan Lu | zl3622 |
+| Yandi Zhang | yz5124 |
+| Daile Yang | dy2540 |
 
 ---
 
